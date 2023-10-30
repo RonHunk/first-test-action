@@ -2,7 +2,7 @@
 
 ## Usage
 
-Describe how to use your action here.
+Describe how to use your action here...
 
 ### Example workflow
 
